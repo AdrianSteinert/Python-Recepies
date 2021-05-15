@@ -1,1 +1,3 @@
-# Python-Recepies
+A collection of various Python snippets
+
+
